@@ -1,0 +1,9 @@
+{
+  "name": "Scratchpad",
+  "description": "Personal dev environment built in ExpressJS, testing ideas quickly",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
